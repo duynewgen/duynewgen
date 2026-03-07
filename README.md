@@ -2,8 +2,8 @@
 vietnamese, studying in michigan (too cold but i survived).
 
 name pronounced "yui"
-- not "dui"
-- not "duai"
+- not "doo-ee"
+- not "doo-ai"
 - not "die" (cmon people)
 
 it's "yui" - means "unique" in vietnamese
