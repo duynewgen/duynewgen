@@ -12,10 +12,10 @@ it's "yui" - means "unique" in vietnamese
 studying supply chain by day, coding by night.
 
 used to hate coding af. almost failed 8th grade pascal and freshman python class
-but chatgpt changed my life.
+<p>but chatgpt changed my life.</p>
 
 now, i design and build cool things.
-self-taught myself coding, frontend dev, and appdev. what a twist lol :)
+<p>self-taught myself coding, frontend dev, and appdev. what a twist lol :)</p>
 
 ## cool stuff
 - built ricefield.social (https://www.ricefield.social/), a twitter-like platform for college students. first project, cool learning, but kinda dead.
