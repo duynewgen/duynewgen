@@ -16,11 +16,3 @@ used to hate coding af. almost failed 8th grade pascal and freshman python class
 
 now, i design and build cool things.
 <p>self-taught myself coding, frontend dev, and appdev. what a twist lol :)</p>
-
-## cool stuff
-- built ricefield.social (https://www.ricefield.social/), a twitter-like platform for college students. first project, cool learning, but kinda dead.
-- built my first ios app called Homee (https://apps.apple.com/us/app/homee-photo-albums-for-groups/id6752733940). used by friends and family. got a good number of users and photos uploaded, so good stuff :)
-- launched doorians lab (https://www.doorians.com/). vc-inspired agency to build tech for non-tech founders. been working with a good number of clients, so good stuff too :)
-- built sick of class search (https://www.sickofclasssearch.com/) for msu students to find classes, grades, profs, reviews, reddit, and ratemyprof in one place. 1,000+, 7k+ site views, 1,000+ classes and profs searched in 1 month. good stuff, again :)
-
-and more. coming soon :)
